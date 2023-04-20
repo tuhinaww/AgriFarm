@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Price Prediction</title>
+</head>
+<body>
+	<h1>Price Prediction</h1>
+	<form method="POST" action="/predict">
+		<label>State:</label><br>
+		<input type="text" name="state" required><br>
+		<label>District:</label><br>
+		<input type="text" name="district" required><br>
+		<label>Market:</label><br>
+		<input type="text" name="market" required><br>
+		<label>Commodity:</label><br>
+		<input type="text" name="commodity" required><br>
+		<label>Minimum Price:</label><br>
+		<input type="number" name="min_price" required><br>
+		<label>Maximum Price:</label><br>
+		<input type="number" name="max_price" required><br>
+		<br>
+		<input type="submit" value="Predict">
+	</form>
+</body>
+</html>
