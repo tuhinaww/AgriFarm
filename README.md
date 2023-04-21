@@ -15,7 +15,7 @@
 
 ### Our proposed solution, AgriFarm, is a web application that aims to optimize the agricultural supply chain by connecting farmers, middlemen, cold storage facilities, and customers. The platform will leverage machine learning algorithms to predict the demand for various agricultural products and provide valuable insights to farmers to plan their production accordingly.
 
-## Tech Stack 👩🏽‍💻:
+## Technical Complexity: 👩🏽‍💻
 
 ### Our project involves the use of several programming languages and tools to build a fully functional web application that optimizes the agricultural supply chain.
 Programming languages and tools used:
