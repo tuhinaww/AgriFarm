@@ -1,3 +1,4 @@
+<p align="center">
 # AgriFarm 👩🏻‍🌾👨🏻‍🌾
 <p align="center">
 <a href="https://ibb.co/VBV6xhs"><img src="https://i.ibb.co/GP7m91q/agri.png" alt="agri" border="0"></a>
