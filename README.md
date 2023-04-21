@@ -1,7 +1,6 @@
-<h1 align="center">AgriFarm 👩🏻‍🌾👨🏻‍🌾</h1>
+<h1 align="center">From farm to fork, Agrifarm's got the score - connecting the agri-supply chain like never before! 👩🏻‍🌾👨🏻‍🌾</h1>
 <p align="center">
 <a href="https://ibb.co/VBV6xhs"><img src="https://i.ibb.co/GP7m91q/agri.png" alt="agri" border="0"></a>
-<h2 align="center">From farm to fork, Agrifarm's got the score - connecting the agri-supply chain like never before!</h2>
 </p>
 
 ## Team - AgriFarm 🍅
