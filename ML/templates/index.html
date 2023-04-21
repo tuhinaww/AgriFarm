@@ -1,25 +1,20 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Price Prediction</title>
-</head>
-<body>
-	<h1>Price Prediction</h1>
-	<form method="POST" action="/predict">
-		<label>State:</label><br>
-		<input type="text" name="state" required><br>
-		<label>District:</label><br>
-		<input type="text" name="district" required><br>
-		<label>Market:</label><br>
-		<input type="text" name="market" required><br>
-		<label>Commodity:</label><br>
-		<input type="text" name="commodity" required><br>
-		<label>Minimum Price:</label><br>
-		<input type="number" name="min_price" required><br>
-		<label>Maximum Price:</label><br>
-		<input type="number" name="max_price" required><br>
-		<br>
-		<input type="submit" value="Predict">
-	</form>
-</body>
+  <head>
+    <title>AgriFarm Price Predictor</title>
+  </head>
+  <body>
+    <h1>AgriFarm Price Predictor</h1>
+    <form method="POST" action="/predict">
+      <label for="market">Market:</label>
+      <input type="text" name="market" id="market"><br>
+      <label for="commodity">Commodity:</label>
+      <input type="text" name="commodity" id="commodity"><br>
+      <label for="variety">Variety:</label>
+      <input type="text" name="variety" id="variety"><br>
+      <label for="grade">Grade:</label>
+      <input type="text" name="grade" id="grade"><br>
+      <input type="submit" value="Predict">
+    </form>
+  </body>
 </html>
