@@ -5,14 +5,15 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
+
 
 # load the model
 model = pickle.load(open('best_model.sav', 'rb'))
 
 # define the home page
 @app.route('/')
-def home():
+def home(): 
     return render_template('index.html')
 
 # define the results page
