@@ -13,7 +13,15 @@
 
 ## Our Solution ✔️: 
 
-### Optimize the agricultural supply chain by connecting farmers, middlemen, cold storage facilities, and customers through our web application as well as applying machine learning algorithm to predict accurate pricing which can be updated on the real time basis.
+### Our proposed solution, AgriFarm, is a web application that aims to optimize the agricultural supply chain by connecting farmers, middlemen, cold storage facilities, and customers. The platform will leverage machine learning algorithms to predict the demand for various agricultural products and provide valuable insights to farmers to plan their production accordingly.
+
+## Tech Stack 👩🏽‍💻:
+
+### Our project involves the use of several programming languages and tools to build a fully functional web application that optimizes the agricultural supply chain.
+Programming languages and tools used:
+1. Machine learning algorithms using Python: Our project will leverage machine learning algorithms to predict the demand for various agricultural products and provide valuable insights to farmers to plan their production accordingly. We will be using Python libraries such as scikit-learn, pandas, and numpy for this purpose.
+2. Web app with HTML and Tailwind CSS: We will be using HTML and Tailwind CSS to create an intuitive and user-friendly web app for farmers, middlemen, cold storage facilities, and customers.
+3. Flask API: We will be using Flask, a Python-based web framework, to develop a RESTful API that will facilitate communication and coordination between various stakeholders in the agricultural supply chain.
 
 
 ## Web App 💻:
