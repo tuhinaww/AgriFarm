@@ -16,10 +16,11 @@
 ### Optimize the agricultural supply chain by connecting farmers, middlemen, cold storage facilities, and customers through our web application as well as applying machine learning algorithm to predict accurate pricing which can be updated on the real time basis.
 
 
+## Web App 💻:
 
 https://user-images.githubusercontent.com/82711261/233589306-dc33643b-0563-4d00-8501-7157094ae70b.mp4
 
-
+## Price Predictor 💵:
 
 https://user-images.githubusercontent.com/82711261/233589337-23a893e1-acf8-46db-ac08-35a777715435.mp4
 
