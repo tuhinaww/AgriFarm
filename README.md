@@ -32,3 +32,6 @@ https://user-images.githubusercontent.com/82711261/233589306-dc33643b-0563-4d00-
 
 https://user-images.githubusercontent.com/82711261/233589337-23a893e1-acf8-46db-ac08-35a777715435.mp4
 
+## Conclusion 📃:
+
+### AgriFarm aims to revolutionize the agricultural industry by optimizing the supply chain and improving communication and coordination between farmers, middlemen, cold storage facilities, and customers. With the power of machine learning, AgriFarm can provide valuable insights to farmers, reduce waste, and improve the quality of the products.
