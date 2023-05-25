@@ -6,5 +6,9 @@ export const ApiSlides = [
         p: "Upto 10% off in Mango",
       },
       background: ' bg-[#c6e400]'
-    }
+
+    },
+
+    },
+
 ]
